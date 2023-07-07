@@ -1,1 +1,1 @@
-show permission
+shell permissions
